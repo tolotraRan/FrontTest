@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import NavbarComp from './Navbar/NavbarComp';
+import NavbarComp from './Components/Navbar/NavbarComp';
 
 function App() {
   return (

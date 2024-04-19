@@ -6,9 +6,9 @@ import {
     Route,
     Link
 } from "react-router-dom";
-import Home from '../Home/home';
-import DataList from '../Datalist/Datalist';
-import EditList from '../Datalist/EditList';
+import Home from '../../Pages/Home/home';
+import DataList from '../../Pages/Datalist/Datalist';
+import EditList from '../../Pages/EditList/EditList';
 export default class NavbarComp extends Component {
     render() {
         return (

@@ -1,5 +1,5 @@
 import React from 'react'
-import GenerateButton from './Generateur'
+import GenerateButton from '../../Components/ButtonGenerateur/Generateur'
 
 export default function home() {
   return (
